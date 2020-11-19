@@ -1,0 +1,14 @@
+{
+  "mode": "queue",
+  "replay": "",
+  "isRealTimeMode": false,
+  "outputOverlayFiles": true,
+  "queue": [
+    {
+      "path": "/home/zamlz/usr/slippi/2020/11/18/Game_20201118T174104.slp",
+      "gameStartAt": "11/18/20 5:41 pm",
+      "startFrame": 477,
+      "endFrame": 1134
+    }
+  ]
+}
