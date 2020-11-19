@@ -5,10 +5,34 @@
   "outputOverlayFiles": true,
   "queue": [
     {
+      "path": "/home/zamlz/usr/slippi/2020/11/18/Game_20201118T083033.slp",
+      "gameStartAt": "11/18/20 8:30 am",
+      "startFrame": 4495,
+      "endFrame": 5185
+    },
+    {
+      "path": "/home/zamlz/usr/slippi/2020/11/18/Game_20201118T172733.slp",
+      "gameStartAt": "11/18/20 5:27 pm",
+      "startFrame": 4591,
+      "endFrame": 5308
+    },
+    {
       "path": "/home/zamlz/usr/slippi/2020/11/18/Game_20201118T174104.slp",
       "gameStartAt": "11/18/20 5:41 pm",
       "startFrame": 477,
       "endFrame": 1134
+    },
+    {
+      "path": "/home/zamlz/usr/slippi/2020/11/18/Game_20201118T174245.slp",
+      "gameStartAt": "11/18/20 5:42 pm",
+      "startFrame": 6149,
+      "endFrame": 6792
+    },
+    {
+      "path": "/home/zamlz/usr/slippi/2020/11/18/Game_20201118T181502.slp",
+      "gameStartAt": "11/18/20 6:15 pm",
+      "startFrame": 9575,
+      "endFrame": 10211
     }
   ]
 }
