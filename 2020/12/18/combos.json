@@ -1,0 +1,14 @@
+{
+  "mode": "queue",
+  "replay": "",
+  "isRealTimeMode": false,
+  "outputOverlayFiles": true,
+  "queue": [
+    {
+      "path": "C:\\Users\\Amlesh Sivanantham\\Documents\\Slippi\\2020\\12\\18\\Game_20201218T175435.slp",
+      "gameStartAt": "12/18/20 5:54 pm",
+      "startFrame": 5701,
+      "endFrame": 6361
+    }
+  ]
+}
